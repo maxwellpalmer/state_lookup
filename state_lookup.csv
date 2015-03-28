@@ -1,52 +1,52 @@
-state,state_name,state_short_name,state_capital,state_type,icpsr_st_cd,fips,state_sort,census_region,census_division,census_region_cd,census_division_cd,state_admitted_dt,state_admitted_order,epsg,epsg_desc
-AL,Alabama,Ala.,Montgomery,State,41,1,1,South,East South Central,3,6,12/14/1819,22,26929,# NAD83 / Alabama East
-AK,Alaska,Alaska,Juneau,State,81,2,2,West,Pacific,4,9,01/03/1959,49,26935,# NAD83 / Alaska zone 5
-AZ,Arizona,Ariz.,Phoenix,State,61,4,3,West,Mountain,4,8,02/14/1912,48,26949,# NAD83 / Arizona Central
-AR,Arkansas,Ark.,Little Rock,State,42,5,4,South,West South Central,3,7,06/15/1836,25,26951,# NAD83 / Arkansas North
-CA,California,Calif.,Sacramento,State,71,6,5,West,Pacific,4,9,09/09/1850,31,26943,# NAD83 / California zone 3
-CO,Colorado,Colo.,Denver,State,62,8,6,West,Mountain,4,8,08/01/1876,38,26954,# NAD83 / Colorado Central
-CT,Connecticut,Conn.,Hartford,State,1,9,7,Northeast,New England,1,1,01/09/1788,5,26956,# NAD83 / Connecticut
-DE,Delaware,Del.,Dover,State,11,10,8,South,South Atlantic,3,5,12/07/1787,1,26957,# NAD83 / Delaware
-FL,Florida,Fla.,Tallahassee,State,43,12,9,South,South Atlantic,3,5,03/03/1845,27,26959,# NAD83 / Florida West
-GA,Georgia,Ga.,Atlanta,State,44,13,10,South,South Atlantic,3,5,01/02/1788,4,26966,# NAD83 / Georgia East
-HI,Hawaii,Hawaii,Honolulu,State,82,15,11,West,Pacific,4,9,08/21/1959,50,26962,# NAD83 / Hawaii zone 2
-ID,Idaho,Idaho,Boise,State,63,16,12,West,Mountain,4,8,07/03/1890,43,26969,# NAD83 / Idaho Central
-IL,Illinois,Ill.,Springfield,State,21,17,13,Midwest,East North Central,2,3,12/03/1818,21,26971,# NAD83 / Illinois East
-IN,Indiana,Ind.,Indianapolis,State,22,18,14,Midwest,East North Central,2,3,12/11/1816,19,26973,# NAD83 / Indiana East
-IA,Iowa,Iowa,Des Moines,State,31,19,15,Midwest,West North Central,2,4,12/28/1846,29,26975,# NAD83 / Iowa North
-KS,Kansas,Kan.,Topeka,State,32,20,16,Midwest,West North Central,2,4,01/29/1861,34,26977,# NAD83 / Kansas North
-KY,Kentucky,Ky.,Frankfort,Commonwealth,51,21,17,South,East South Central,3,6,06/01/1792,15,26980,# NAD83 / Kentucky South
-LA,Louisiana,La.,Baton Rouge,State,45,22,18,South,West South Central,3,7,04/30/1812,18,26982,# NAD83 / Louisiana South
-ME,Maine,Maine,Augusta,State,2,23,19,Northeast,New England,1,1,03/15/1820,23,26984,# NAD83 / Maine West
-MD,Maryland,Md.,Annapolis,State,52,24,20,South,South Atlantic,3,5,04/28/1788,7,26985,# NAD83 / Maryland
-MA,Massachusetts,Mass.,Boston,Commonwealth,3,25,21,Northeast,New England,1,1,02/06/1788,6,26986,# NAD83 / Massachusetts Mainland
-MI,Michigan,Mich.,Lansing,State,23,26,22,Midwest,East North Central,2,3,01/26/1837,26,26989,# NAD83 / Michigan Central
-MN,Minnesota,Minn.,Saint Paul,State,33,27,23,Midwest,West North Central,2,4,05/11/1858,32,26992,# NAD83 / Minnesota Central
-MS,Mississippi,Miss.,Jackson,State,46,28,24,South,East South Central,3,6,12/10/1817,20,26994,# NAD83 / Mississippi East
-MO,Missouri,Mo.,Jefferson City,State,34,29,25,Midwest,West North Central,2,4,08/10/1821,24,26997,# NAD83 / Missouri Central
-MT,Montana,Mont.,Helena,State,64,30,26,West,Mountain,4,8,11/08/1889,41,32100,# NAD83 / Montana
-NE,Nebraska,Neb.,Lincoln,State,35,31,27,Midwest,West North Central,2,4,03/01/1867,37,32104,# NAD83 / Nebraska
-NV,Nevada,Nev.,Carson City,State,65,32,28,West,Mountain,4,8,10/31/1864,36,32108,# NAD83 / Nevada Central
-NH,New Hampshire,N.H.,Concord,State,4,33,29,Northeast,New England,1,1,06/21/1788,9,32110,# NAD83 / New Hampshire
-NJ,New Jersey,N.J.,Trenton,State,12,34,30,Northeast,Middle Atlantic,1,2,12/18/1787,3,32111,# NAD83 / New Jersey
-NM,New Mexico,N.M.,Santa Fe,State,66,35,31,West,Mountain,4,8,01/06/1912,47,32113,# NAD83 / New Mexico Central
-NY,New York,N.Y.,Albany,State,13,36,32,Northeast,Middle Atlantic,1,2,07/26/1788,11,32116,# NAD83 / New York Central
-NC,North Carolina,N.C.,Raleigh,State,47,37,33,South,South Atlantic,3,5,11/21/1789,12,32019,# NAD27 / North Carolina
-ND,North Dakota,N.D.,Bismarck,State,36,38,34,Midwest,West North Central,2,4,11/02/1889,39,32120,# NAD83 / North Dakota North
-OH,Ohio,Ohio,Columbus,State,24,39,35,Midwest,East North Central,2,3,03/01/1803,17,32122,# NAD83 / Ohio North
-OK,Oklahoma,Okla.,Oklahoma City,State,53,40,36,South,West South Central,3,7,11/16/1907,46,32124,# NAD83 / Oklahoma North
-OR,Oregon,Ore.,Salem,State,72,41,37,West,Pacific,4,9,02/14/1859,33,32126,# NAD83 / Oregon North
-PA,Pennsylvania,Pa.,Harrisburg,Commonwealth,14,42,38,Northeast,Middle Atlantic,1,2,12/12/1787,2,32128,# NAD83 / Pennsylvania North
-RI,Rhode Island,R.I.,Providence,State,5,44,39,Northeast,New England,1,1,05/29/1790,13,32130,# NAD83 / Rhode Island
-SC,South Carolina,S.C.,Columbia,State,48,45,40,South,South Atlantic,3,5,05/23/1788,8,32133,# NAD83 / South Carolina
-SD,South Dakota,S.D.,Pierre,State,37,46,41,Midwest,West North Central,2,4,11/02/1889,40,32134,# NAD83 / South Dakota North
-TN,Tennessee,Tenn.,Nashville,State,54,47,42,South,East South Central,3,6,06/01/1796,16,32136,# NAD83 / Tennessee
-TX,Texas,Texas,Austin,State,49,48,43,South,West South Central,3,7,12/29/1845,28,32138,# NAD83 / Texas North Central
-UT,Utah,Utah,Salt Lake City,State,67,49,44,West,Mountain,4,8,01/04/1896,45,32143,# NAD83 / Utah Central
-VT,Vermont,Vt.,Montpelier,State,6,50,45,Northeast,New England,1,1,03/04/1791,14,32145,# NAD83 / Vermont
-VA,Virginia,Va.,Richmond,Commonwealth,40,51,46,South,South Atlantic,3,5,06/25/1788,10,32146,# NAD83 / Virginia North
-WA,Washington,Wash.,Olympia,State,73,53,47,West,Pacific,4,9,11/11/1889,42,32148,# NAD83 / Washington North
-WV,West Virginia,W.Va.,Charleston,State,56,54,48,South,South Atlantic,3,5,06/20/1863,35,32150,# NAD83 / West Virginia North
-WI,Wisconsin,Wis.,Madison,State,25,55,49,Midwest,East North Central,2,3,05/29/1848,30,32153,# NAD83 / Wisconsin Central
-WY,Wyoming,Wyo.,Cheyenne,State,68,56,50,West,Mountain,4,8,07/10/1890,44,32156,# NAD83 / Wyoming East Central
-DC,District Of Columbia,D.C.,Washington,Federal district,55,11,51,South,South Atlantic,3,5,,,26985,# NAD83 / Maryland
+state,state_name,state_short_name,state_capital,state_type,icpsr_st_cd,fips,state_sort,census_region,census_division,census_region_cd,census_division_cd,state_admitted_dt,state_admitted_order,epsg,epsg_desc,seats_upper,seats_lower
+AL,Alabama,Ala.,Montgomery,State,41,1,1,South,East South Central,3,6,12/14/1819,22,26929,# NAD83 / Alabama East,35,105
+AK,Alaska,Alaska,Juneau,State,81,2,2,West,Pacific,4,9,01/03/1959,49,26935,# NAD83 / Alaska zone 5,20,40
+AZ,Arizona,Ariz.,Phoenix,State,61,4,3,West,Mountain,4,8,02/14/1912,48,26949,# NAD83 / Arizona Central,30,60
+AR,Arkansas,Ark.,Little Rock,State,42,5,4,South,West South Central,3,7,06/15/1836,25,26951,# NAD83 / Arkansas North,35,100
+CA,California,Calif.,Sacramento,State,71,6,5,West,Pacific,4,9,09/09/1850,31,26943,# NAD83 / California zone 3,40,80
+CO,Colorado,Colo.,Denver,State,62,8,6,West,Mountain,4,8,08/01/1876,38,26954,# NAD83 / Colorado Central,35,65
+CT,Connecticut,Conn.,Hartford,State,1,9,7,Northeast,New England,1,1,01/09/1788,5,26956,# NAD83 / Connecticut,36,151
+DE,Delaware,Del.,Dover,State,11,10,8,South,South Atlantic,3,5,12/07/1787,1,26957,# NAD83 / Delaware,21,41
+FL,Florida,Fla.,Tallahassee,State,43,12,9,South,South Atlantic,3,5,03/03/1845,27,26959,# NAD83 / Florida West,40,120
+GA,Georgia,Ga.,Atlanta,State,44,13,10,South,South Atlantic,3,5,01/02/1788,4,26966,# NAD83 / Georgia East,56,180
+HI,Hawaii,Hawaii,Honolulu,State,82,15,11,West,Pacific,4,9,08/21/1959,50,26962,# NAD83 / Hawaii zone 2,25,51
+ID,Idaho,Idaho,Boise,State,63,16,12,West,Mountain,4,8,07/03/1890,43,26969,# NAD83 / Idaho Central,35,70
+IL,Illinois,Ill.,Springfield,State,21,17,13,Midwest,East North Central,2,3,12/03/1818,21,26971,# NAD83 / Illinois East,59,118
+IN,Indiana,Ind.,Indianapolis,State,22,18,14,Midwest,East North Central,2,3,12/11/1816,19,26973,# NAD83 / Indiana East,50,100
+IA,Iowa,Iowa,Des Moines,State,31,19,15,Midwest,West North Central,2,4,12/28/1846,29,26975,# NAD83 / Iowa North,50,100
+KS,Kansas,Kan.,Topeka,State,32,20,16,Midwest,West North Central,2,4,01/29/1861,34,26977,# NAD83 / Kansas North,40,125
+KY,Kentucky,Ky.,Frankfort,Commonwealth,51,21,17,South,East South Central,3,6,06/01/1792,15,26980,# NAD83 / Kentucky South,38,100
+LA,Louisiana,La.,Baton Rouge,State,45,22,18,South,West South Central,3,7,04/30/1812,18,26982,# NAD83 / Louisiana South,39,105
+ME,Maine,Maine,Augusta,State,2,23,19,Northeast,New England,1,1,03/15/1820,23,26984,# NAD83 / Maine West,35,151
+MD,Maryland,Md.,Annapolis,State,52,24,20,South,South Atlantic,3,5,04/28/1788,7,26985,# NAD83 / Maryland,47,141
+MA,Massachusetts,Mass.,Boston,Commonwealth,3,25,21,Northeast,New England,1,1,02/06/1788,6,26986,# NAD83 / Massachusetts Mainland,40,160
+MI,Michigan,Mich.,Lansing,State,23,26,22,Midwest,East North Central,2,3,01/26/1837,26,26989,# NAD83 / Michigan Central,38,110
+MN,Minnesota,Minn.,Saint Paul,State,33,27,23,Midwest,West North Central,2,4,05/11/1858,32,26992,# NAD83 / Minnesota Central,67,134
+MS,Mississippi,Miss.,Jackson,State,46,28,24,South,East South Central,3,6,12/10/1817,20,26994,# NAD83 / Mississippi East,52,122
+MO,Missouri,Mo.,Jefferson City,State,34,29,25,Midwest,West North Central,2,4,08/10/1821,24,26997,# NAD83 / Missouri Central,34,163
+MT,Montana,Mont.,Helena,State,64,30,26,West,Mountain,4,8,11/08/1889,41,32100,# NAD83 / Montana,50,100
+NE,Nebraska,Neb.,Lincoln,State,35,31,27,Midwest,West North Central,2,4,03/01/1867,37,32104,# NAD83 / Nebraska,49,
+NV,Nevada,Nev.,Carson City,State,65,32,28,West,Mountain,4,8,10/31/1864,36,32108,# NAD83 / Nevada Central,21,42
+NH,New Hampshire,N.H.,Concord,State,4,33,29,Northeast,New England,1,1,06/21/1788,9,32110,# NAD83 / New Hampshire,24,400
+NJ,New Jersey,N.J.,Trenton,State,12,34,30,Northeast,Middle Atlantic,1,2,12/18/1787,3,32111,# NAD83 / New Jersey,40,80
+NM,New Mexico,N.M.,Santa Fe,State,66,35,31,West,Mountain,4,8,01/06/1912,47,32113,# NAD83 / New Mexico Central,42,70
+NY,New York,N.Y.,Albany,State,13,36,32,Northeast,Middle Atlantic,1,2,07/26/1788,11,32116,# NAD83 / New York Central,63,150
+NC,North Carolina,N.C.,Raleigh,State,47,37,33,South,South Atlantic,3,5,11/21/1789,12,32019,# NAD27 / North Carolina,50,120
+ND,North Dakota,N.D.,Bismarck,State,36,38,34,Midwest,West North Central,2,4,11/02/1889,39,32120,# NAD83 / North Dakota North,47,94
+OH,Ohio,Ohio,Columbus,State,24,39,35,Midwest,East North Central,2,3,03/01/1803,17,32122,# NAD83 / Ohio North,33,99
+OK,Oklahoma,Okla.,Oklahoma City,State,53,40,36,South,West South Central,3,7,11/16/1907,46,32124,# NAD83 / Oklahoma North,48,101
+OR,Oregon,Ore.,Salem,State,72,41,37,West,Pacific,4,9,02/14/1859,33,32126,# NAD83 / Oregon North,30,60
+PA,Pennsylvania,Pa.,Harrisburg,Commonwealth,14,42,38,Northeast,Middle Atlantic,1,2,12/12/1787,2,32128,# NAD83 / Pennsylvania North,50,203
+RI,Rhode Island,R.I.,Providence,State,5,44,39,Northeast,New England,1,1,05/29/1790,13,32130,# NAD83 / Rhode Island,38,75
+SC,South Carolina,S.C.,Columbia,State,48,45,40,South,South Atlantic,3,5,05/23/1788,8,32133,# NAD83 / South Carolina,46,124
+SD,South Dakota,S.D.,Pierre,State,37,46,41,Midwest,West North Central,2,4,11/02/1889,40,32134,# NAD83 / South Dakota North,35,70
+TN,Tennessee,Tenn.,Nashville,State,54,47,42,South,East South Central,3,6,06/01/1796,16,32136,# NAD83 / Tennessee,33,99
+TX,Texas,Texas,Austin,State,49,48,43,South,West South Central,3,7,12/29/1845,28,32138,# NAD83 / Texas North Central,31,150
+UT,Utah,Utah,Salt Lake City,State,67,49,44,West,Mountain,4,8,01/04/1896,45,32143,# NAD83 / Utah Central,29,75
+VT,Vermont,Vt.,Montpelier,State,6,50,45,Northeast,New England,1,1,03/04/1791,14,32145,# NAD83 / Vermont,30,150
+VA,Virginia,Va.,Richmond,Commonwealth,40,51,46,South,South Atlantic,3,5,06/25/1788,10,32146,# NAD83 / Virginia North,40,100
+WA,Washington,Wash.,Olympia,State,73,53,47,West,Pacific,4,9,11/11/1889,42,32148,# NAD83 / Washington North,49,98
+WV,West Virginia,W.Va.,Charleston,State,56,54,48,South,South Atlantic,3,5,06/20/1863,35,32150,# NAD83 / West Virginia North,34,100
+WI,Wisconsin,Wis.,Madison,State,25,55,49,Midwest,East North Central,2,3,05/29/1848,30,32153,# NAD83 / Wisconsin Central,33,99
+WY,Wyoming,Wyo.,Cheyenne,State,68,56,50,West,Mountain,4,8,07/10/1890,44,32156,# NAD83 / Wyoming East Central,30,60
+DC,District Of Columbia,D.C.,Washington,Federal district,55,11,51,South,South Atlantic,3,5,,,26985,# NAD83 / Maryland,13,
