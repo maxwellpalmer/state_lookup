@@ -1,52 +1,52 @@
-state,state_name,state_short_name,state_capital,state_type,icpsr_st_cd,fips,state_sort,census_region,census_division,census_region_cd,census_division_cd
-AL,Alabama,Ala.,Montgomery,State,41,1,1,South,East South Central,3,6
-AK,Alaska,Alaska,Juneau,State,81,2,2,West,Pacific,4,9
-AZ,Arizona,Ariz.,Phoenix,State,61,4,3,West,Mountain,4,8
-AR,Arkansas,Ark.,Little Rock,State,42,5,4,South,West South Central,3,7
-CA,California,Calif.,Sacramento,State,71,6,5,West,Pacific,4,9
-CO,Colorado,Colo.,Denver,State,62,8,6,West,Mountain,4,8
-CT,Connecticut,Conn.,Hartford,State,1,9,7,Northeast,New England,1,1
-DE,Delaware,Del.,Dover,State,11,10,8,South,South Atlantic,3,5
-FL,Florida,Fla.,Tallahassee,State,43,12,9,South,South Atlantic,3,5
-GA,Georgia,Ga.,Atlanta,State,44,13,10,South,South Atlantic,3,5
-HI,Hawaii,Hawaii,Honolulu,State,82,15,11,West,Pacific,4,9
-ID,Idaho,Idaho,Boise,State,63,16,12,West,Mountain,4,8
-IL,Illinois,Ill.,Springfield,State,21,17,13,Midwest,East North Central,2,3
-IN,Indiana,Ind.,Indianapolis,State,22,18,14,Midwest,East North Central,2,3
-IA,Iowa,Iowa,Des Moines,State,31,19,15,Midwest,West North Central,2,4
-KS,Kansas,Kan.,Topeka,State,32,20,16,Midwest,West North Central,2,4
-KY,Kentucky,Ky.,Frankfort,Commonwealth,51,21,17,South,East South Central,3,6
-LA,Louisiana,La.,Baton Rouge,State,45,22,18,South,West South Central,3,7
-ME,Maine,Maine,Augusta,State,2,23,19,Northeast,New England,1,1
-MD,Maryland,Md.,Annapolis,State,52,24,20,South,South Atlantic,3,5
-MA,Massachusetts,Mass.,Boston,Commonwealth,3,25,21,Northeast,New England,1,1
-MI,Michigan,Mich.,Lansing,State,23,26,22,Midwest,East North Central,2,3
-MN,Minnesota,Minn.,Saint Paul,State,33,27,23,Midwest,West North Central,2,4
-MS,Mississippi,Miss.,Jackson,State,46,28,24,South,East South Central,3,6
-MO,Missouri,Mo.,Jefferson City,State,34,29,25,Midwest,West North Central,2,4
-MT,Montana,Mont.,Helena,State,64,30,26,West,Mountain,4,8
-NE,Nebraska,Neb.,Lincoln,State,35,31,27,Midwest,West North Central,2,4
-NV,Nevada,Nev.,Carson City,State,65,32,28,West,Mountain,4,8
-NH,New Hampshire,N.H.,Concord,State,4,33,29,Northeast,New England,1,1
-NJ,New Jersey,N.J.,Trenton,State,12,34,30,Northeast,Middle Atlantic,1,2
-NM,New Mexico,N.M.,Santa Fe,State,66,35,31,West,Mountain,4,8
-NY,New York,N.Y.,Albany,State,13,36,32,Northeast,Middle Atlantic,1,2
-NC,North Carolina,N.C.,Raleigh,State,47,37,33,South,South Atlantic,3,5
-ND,North Dakota,N.D.,Bismarck,State,36,38,34,Midwest,West North Central,2,4
-OH,Ohio,Ohio,Columbus,State,24,39,35,Midwest,East North Central,2,3
-OK,Oklahoma,Okla.,Oklahoma City,State,53,40,36,South,West South Central,3,7
-OR,Oregon,Ore.,Salem,State,72,41,37,West,Pacific,4,9
-PA,Pennsylvania,Pa.,Harrisburg,Commonwealth,14,42,38,Northeast,Middle Atlantic,1,2
-RI,Rhode Island,R.I.,Providence,State,5,44,39,Northeast,New England,1,1
-SC,South Carolina,S.C.,Columbia,State,48,45,40,South,South Atlantic,3,5
-SD,South Dakota,S.D.,Pierre,State,37,46,41,Midwest,West North Central,2,4
-TN,Tennessee,Tenn.,Nashville,State,54,47,42,South,East South Central,3,6
-TX,Texas,Texas,Austin,State,49,48,43,South,West South Central,3,7
-UT,Utah,Utah,Salt Lake City,State,67,49,44,West,Mountain,4,8
-VT,Vermont,Vt.,Montpelier,State,6,50,45,Northeast,New England,1,1
-VA,Virginia,Va.,Richmond,Commonwealth,40,51,46,South,South Atlantic,3,5
-WA,Washington,Wash.,Olympia,State,73,53,47,West,Pacific,4,9
-WV,West Virginia,W.Va.,Charleston,State,56,54,48,South,South Atlantic,3,5
-WI,Wisconsin,Wis.,Madison,State,25,55,49,Midwest,East North Central,2,3
-WY,Wyoming,Wyo.,Cheyenne,State,68,56,50,West,Mountain,4,8
-DC,District Of Columbia,D.C.,Washington,Federal district,55,11,51,South,South Atlantic,3,5
+state,state_name,state_short_name,state_capital,state_type,icpsr_st_cd,fips,state_sort,census_region,census_division,census_region_cd,census_division_cd,state_admitted_dt,state_admitted_order
+AL,Alabama,Ala.,Montgomery,State,41,1,1,South,East South Central,3,6,14dec1819,22
+AK,Alaska,Alaska,Juneau,State,81,2,2,West,Pacific,4,9,03jan1959,49
+AZ,Arizona,Ariz.,Phoenix,State,61,4,3,West,Mountain,4,8,14feb1912,48
+AR,Arkansas,Ark.,Little Rock,State,42,5,4,South,West South Central,3,7,15jun1836,25
+CA,California,Calif.,Sacramento,State,71,6,5,West,Pacific,4,9,09sep1850,31
+CO,Colorado,Colo.,Denver,State,62,8,6,West,Mountain,4,8,01aug1876,38
+CT,Connecticut,Conn.,Hartford,State,1,9,7,Northeast,New England,1,1,09jan1788,5
+DE,Delaware,Del.,Dover,State,11,10,8,South,South Atlantic,3,5,07dec1787,1
+FL,Florida,Fla.,Tallahassee,State,43,12,9,South,South Atlantic,3,5,03mar1845,27
+GA,Georgia,Ga.,Atlanta,State,44,13,10,South,South Atlantic,3,5,02jan1788,4
+HI,Hawaii,Hawaii,Honolulu,State,82,15,11,West,Pacific,4,9,21aug1959,50
+ID,Idaho,Idaho,Boise,State,63,16,12,West,Mountain,4,8,03jul1890,43
+IL,Illinois,Ill.,Springfield,State,21,17,13,Midwest,East North Central,2,3,03dec1818,21
+IN,Indiana,Ind.,Indianapolis,State,22,18,14,Midwest,East North Central,2,3,11dec1816,19
+IA,Iowa,Iowa,Des Moines,State,31,19,15,Midwest,West North Central,2,4,28dec1846,29
+KS,Kansas,Kan.,Topeka,State,32,20,16,Midwest,West North Central,2,4,29jan1861,34
+KY,Kentucky,Ky.,Frankfort,Commonwealth,51,21,17,South,East South Central,3,6,01jun1792,15
+LA,Louisiana,La.,Baton Rouge,State,45,22,18,South,West South Central,3,7,30apr1812,18
+ME,Maine,Maine,Augusta,State,2,23,19,Northeast,New England,1,1,15mar1820,23
+MD,Maryland,Md.,Annapolis,State,52,24,20,South,South Atlantic,3,5,28apr1788,7
+MA,Massachusetts,Mass.,Boston,Commonwealth,3,25,21,Northeast,New England,1,1,06feb1788,6
+MI,Michigan,Mich.,Lansing,State,23,26,22,Midwest,East North Central,2,3,26jan1837,26
+MN,Minnesota,Minn.,Saint Paul,State,33,27,23,Midwest,West North Central,2,4,11may1858,32
+MS,Mississippi,Miss.,Jackson,State,46,28,24,South,East South Central,3,6,10dec1817,20
+MO,Missouri,Mo.,Jefferson City,State,34,29,25,Midwest,West North Central,2,4,10aug1821,24
+MT,Montana,Mont.,Helena,State,64,30,26,West,Mountain,4,8,08nov1889,41
+NE,Nebraska,Neb.,Lincoln,State,35,31,27,Midwest,West North Central,2,4,01mar1867,37
+NV,Nevada,Nev.,Carson City,State,65,32,28,West,Mountain,4,8,31oct1864,36
+NH,New Hampshire,N.H.,Concord,State,4,33,29,Northeast,New England,1,1,21jun1788,9
+NJ,New Jersey,N.J.,Trenton,State,12,34,30,Northeast,Middle Atlantic,1,2,18dec1787,3
+NM,New Mexico,N.M.,Santa Fe,State,66,35,31,West,Mountain,4,8,06jan1912,47
+NY,New York,N.Y.,Albany,State,13,36,32,Northeast,Middle Atlantic,1,2,26jul1788,11
+NC,North Carolina,N.C.,Raleigh,State,47,37,33,South,South Atlantic,3,5,21nov1789,12
+ND,North Dakota,N.D.,Bismarck,State,36,38,34,Midwest,West North Central,2,4,02nov1889,39
+OH,Ohio,Ohio,Columbus,State,24,39,35,Midwest,East North Central,2,3,01mar1803,17
+OK,Oklahoma,Okla.,Oklahoma City,State,53,40,36,South,West South Central,3,7,16nov1907,46
+OR,Oregon,Ore.,Salem,State,72,41,37,West,Pacific,4,9,14feb1859,33
+PA,Pennsylvania,Pa.,Harrisburg,Commonwealth,14,42,38,Northeast,Middle Atlantic,1,2,12dec1787,2
+RI,Rhode Island,R.I.,Providence,State,5,44,39,Northeast,New England,1,1,29may1790,13
+SC,South Carolina,S.C.,Columbia,State,48,45,40,South,South Atlantic,3,5,23may1788,8
+SD,South Dakota,S.D.,Pierre,State,37,46,41,Midwest,West North Central,2,4,02nov1889,40
+TN,Tennessee,Tenn.,Nashville,State,54,47,42,South,East South Central,3,6,01jun1796,16
+TX,Texas,Texas,Austin,State,49,48,43,South,West South Central,3,7,29dec1845,28
+UT,Utah,Utah,Salt Lake City,State,67,49,44,West,Mountain,4,8,04jan1896,45
+VT,Vermont,Vt.,Montpelier,State,6,50,45,Northeast,New England,1,1,04mar1791,14
+VA,Virginia,Va.,Richmond,Commonwealth,40,51,46,South,South Atlantic,3,5,25jun1788,10
+WA,Washington,Wash.,Olympia,State,73,53,47,West,Pacific,4,9,11nov1889,42
+WV,West Virginia,W.Va.,Charleston,State,56,54,48,South,South Atlantic,3,5,20jun1863,35
+WI,Wisconsin,Wis.,Madison,State,25,55,49,Midwest,East North Central,2,3,29may1848,30
+WY,Wyoming,Wyo.,Cheyenne,State,68,56,50,West,Mountain,4,8,10jul1890,44
+DC,District Of Columbia,D.C.,Washington,Federal district,55,11,51,South,South Atlantic,3,5,,
