@@ -1,0 +1,52 @@
+state,state_name,state_short_name,state_capital,state_type
+AK,Alaska,Alaska,Juneau,State
+AR,Arkansas,Ark.,Little Rock,State
+AZ,Arizona,Ariz.,Phoenix,State
+CA,California,Calif.,Sacramento,State
+CO,Colorado,Colo.,Denver,State
+CT,Connecticut,Conn.,Hartford,State
+DE,Delaware,Del.,Dover,State
+FL,Florida,Fla.,Tallahassee,State
+GA,Georgia,Ga.,Atlanta,State
+HI,Hawaii,Hawaii,Honolulu,State
+IA,Iowa,Iowa,Des Moines,State
+ID,Idaho,Idaho,Boise,State
+IL,Illinois,Ill.,Springfield,State
+IN,Indiana,Ind.,Indianapolis,State
+KS,Kansas,Kan.,Topeka,State
+KY,Kentucky,Ky.,Frankfort,Commonwealth
+LA,Louisiana,La.,Baton Rouge,State
+MA,Massachusetts,Mass.,Boston,Commonwealth
+MD,Maryland,Md.,Annapolis,State
+ME,Maine,Maine,Augusta,State
+MI,Michigan,Mich.,Lansing,State
+MN,Minnesota,Minn.,Saint Paul,State
+MO,Missouri,Mo.,Jefferson City,State
+MS,Mississippi,Miss.,Jackson,State
+MT,Montana,Mont.,Helena,State
+NC,North Carolina,N.C.,Raleigh,State
+ND,North Dakota,N.D.,Bismarck,State
+NE,Nebraska,Neb.,Lincoln,State
+NH,New Hampshire,N.H.,Concord,State
+NJ,New Jersey,N.J.,Trenton,State
+NM,New Mexico,N.M.,Santa Fe,State
+NV,Nevada,Nev.,Carson City,State
+NY,New York,N.Y.,Albany,State
+OH,Ohio,Ohio,Columbus,State
+OK,Oklahoma,Okla.,Oklahoma City,State
+OR,Oregon,Ore.,Salem,State
+PA,Pennsylvania,Pa.,Harrisburg,Commonwealth
+RI,Rhode Island,R.I.,Providence,State
+SC,South Carolina,S.C.,Columbia,State
+SD,South Dakota,S.D.,Pierre,State
+TN,Tennessee,Tenn.,Nashville,State
+TX,Texas,Texas,Austin,State
+UT,Utah,Utah,Salt Lake City,State
+VA,Virginia,Va.,Richmond,Commonwealth
+VT,Vermont,Vt.,Montpelier,State
+WA,Washington,Wash.,Olympia,State
+WI,Wisconsin,Wis.,Madison,State
+WV,West Virginia,W.Va.,Charleston,State
+WY,Wyoming,Wyo.,Cheyenne,State
+AL,Alabama,Ala.,Montgomery,State
+DC,District Of Columbia,D.C.,Washington,Federal district
