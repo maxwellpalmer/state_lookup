@@ -1,52 +1,52 @@
-state,state_name,state_short_name,state_capital,state_type
-AK,Alaska,Alaska,Juneau,State
-AR,Arkansas,Ark.,Little Rock,State
-AZ,Arizona,Ariz.,Phoenix,State
-CA,California,Calif.,Sacramento,State
-CO,Colorado,Colo.,Denver,State
-CT,Connecticut,Conn.,Hartford,State
-DE,Delaware,Del.,Dover,State
-FL,Florida,Fla.,Tallahassee,State
-GA,Georgia,Ga.,Atlanta,State
-HI,Hawaii,Hawaii,Honolulu,State
-IA,Iowa,Iowa,Des Moines,State
-ID,Idaho,Idaho,Boise,State
-IL,Illinois,Ill.,Springfield,State
-IN,Indiana,Ind.,Indianapolis,State
-KS,Kansas,Kan.,Topeka,State
-KY,Kentucky,Ky.,Frankfort,Commonwealth
-LA,Louisiana,La.,Baton Rouge,State
-MA,Massachusetts,Mass.,Boston,Commonwealth
-MD,Maryland,Md.,Annapolis,State
-ME,Maine,Maine,Augusta,State
-MI,Michigan,Mich.,Lansing,State
-MN,Minnesota,Minn.,Saint Paul,State
-MO,Missouri,Mo.,Jefferson City,State
-MS,Mississippi,Miss.,Jackson,State
-MT,Montana,Mont.,Helena,State
-NC,North Carolina,N.C.,Raleigh,State
-ND,North Dakota,N.D.,Bismarck,State
-NE,Nebraska,Neb.,Lincoln,State
-NH,New Hampshire,N.H.,Concord,State
-NJ,New Jersey,N.J.,Trenton,State
-NM,New Mexico,N.M.,Santa Fe,State
-NV,Nevada,Nev.,Carson City,State
-NY,New York,N.Y.,Albany,State
-OH,Ohio,Ohio,Columbus,State
-OK,Oklahoma,Okla.,Oklahoma City,State
-OR,Oregon,Ore.,Salem,State
-PA,Pennsylvania,Pa.,Harrisburg,Commonwealth
-RI,Rhode Island,R.I.,Providence,State
-SC,South Carolina,S.C.,Columbia,State
-SD,South Dakota,S.D.,Pierre,State
-TN,Tennessee,Tenn.,Nashville,State
-TX,Texas,Texas,Austin,State
-UT,Utah,Utah,Salt Lake City,State
-VA,Virginia,Va.,Richmond,Commonwealth
-VT,Vermont,Vt.,Montpelier,State
-WA,Washington,Wash.,Olympia,State
-WI,Wisconsin,Wis.,Madison,State
-WV,West Virginia,W.Va.,Charleston,State
-WY,Wyoming,Wyo.,Cheyenne,State
-AL,Alabama,Ala.,Montgomery,State
-DC,District Of Columbia,D.C.,Washington,Federal district
+state,state_name,state_short_name,state_capital,state_type,icpsr_st_cd,fips,state_sort,census_region,census_division,census_region_cd,census_division_cd
+AL,Alabama,Ala.,Montgomery,State,41,1,1,South,East South Central,3,6
+AK,Alaska,Alaska,Juneau,State,81,2,2,West,Pacific,4,9
+AZ,Arizona,Ariz.,Phoenix,State,61,4,3,West,Mountain,4,8
+AR,Arkansas,Ark.,Little Rock,State,42,5,4,South,West South Central,3,7
+CA,California,Calif.,Sacramento,State,71,6,5,West,Pacific,4,9
+CO,Colorado,Colo.,Denver,State,62,8,6,West,Mountain,4,8
+CT,Connecticut,Conn.,Hartford,State,1,9,7,Northeast,New England,1,1
+DE,Delaware,Del.,Dover,State,11,10,8,South,South Atlantic,3,5
+FL,Florida,Fla.,Tallahassee,State,43,12,9,South,South Atlantic,3,5
+GA,Georgia,Ga.,Atlanta,State,44,13,10,South,South Atlantic,3,5
+HI,Hawaii,Hawaii,Honolulu,State,82,15,11,West,Pacific,4,9
+ID,Idaho,Idaho,Boise,State,63,16,12,West,Mountain,4,8
+IL,Illinois,Ill.,Springfield,State,21,17,13,Midwest,East North Central,2,3
+IN,Indiana,Ind.,Indianapolis,State,22,18,14,Midwest,East North Central,2,3
+IA,Iowa,Iowa,Des Moines,State,31,19,15,Midwest,West North Central,2,4
+KS,Kansas,Kan.,Topeka,State,32,20,16,Midwest,West North Central,2,4
+KY,Kentucky,Ky.,Frankfort,Commonwealth,51,21,17,South,East South Central,3,6
+LA,Louisiana,La.,Baton Rouge,State,45,22,18,South,West South Central,3,7
+ME,Maine,Maine,Augusta,State,2,23,19,Northeast,New England,1,1
+MD,Maryland,Md.,Annapolis,State,52,24,20,South,South Atlantic,3,5
+MA,Massachusetts,Mass.,Boston,Commonwealth,3,25,21,Northeast,New England,1,1
+MI,Michigan,Mich.,Lansing,State,23,26,22,Midwest,East North Central,2,3
+MN,Minnesota,Minn.,Saint Paul,State,33,27,23,Midwest,West North Central,2,4
+MS,Mississippi,Miss.,Jackson,State,46,28,24,South,East South Central,3,6
+MO,Missouri,Mo.,Jefferson City,State,34,29,25,Midwest,West North Central,2,4
+MT,Montana,Mont.,Helena,State,64,30,26,West,Mountain,4,8
+NE,Nebraska,Neb.,Lincoln,State,35,31,27,Midwest,West North Central,2,4
+NV,Nevada,Nev.,Carson City,State,65,32,28,West,Mountain,4,8
+NH,New Hampshire,N.H.,Concord,State,4,33,29,Northeast,New England,1,1
+NJ,New Jersey,N.J.,Trenton,State,12,34,30,Northeast,Middle Atlantic,1,2
+NM,New Mexico,N.M.,Santa Fe,State,66,35,31,West,Mountain,4,8
+NY,New York,N.Y.,Albany,State,13,36,32,Northeast,Middle Atlantic,1,2
+NC,North Carolina,N.C.,Raleigh,State,47,37,33,South,South Atlantic,3,5
+ND,North Dakota,N.D.,Bismarck,State,36,38,34,Midwest,West North Central,2,4
+OH,Ohio,Ohio,Columbus,State,24,39,35,Midwest,East North Central,2,3
+OK,Oklahoma,Okla.,Oklahoma City,State,53,40,36,South,West South Central,3,7
+OR,Oregon,Ore.,Salem,State,72,41,37,West,Pacific,4,9
+PA,Pennsylvania,Pa.,Harrisburg,Commonwealth,14,42,38,Northeast,Middle Atlantic,1,2
+RI,Rhode Island,R.I.,Providence,State,5,44,39,Northeast,New England,1,1
+SC,South Carolina,S.C.,Columbia,State,48,45,40,South,South Atlantic,3,5
+SD,South Dakota,S.D.,Pierre,State,37,46,41,Midwest,West North Central,2,4
+TN,Tennessee,Tenn.,Nashville,State,54,47,42,South,East South Central,3,6
+TX,Texas,Texas,Austin,State,49,48,43,South,West South Central,3,7
+UT,Utah,Utah,Salt Lake City,State,67,49,44,West,Mountain,4,8
+VT,Vermont,Vt.,Montpelier,State,6,50,45,Northeast,New England,1,1
+VA,Virginia,Va.,Richmond,Commonwealth,40,51,46,South,South Atlantic,3,5
+WA,Washington,Wash.,Olympia,State,73,53,47,West,Pacific,4,9
+WV,West Virginia,W.Va.,Charleston,State,56,54,48,South,South Atlantic,3,5
+WI,Wisconsin,Wis.,Madison,State,25,55,49,Midwest,East North Central,2,3
+WY,Wyoming,Wyo.,Cheyenne,State,68,56,50,West,Mountain,4,8
+DC,District Of Columbia,D.C.,Washington,Federal district,55,11,51,South,South Atlantic,3,5
